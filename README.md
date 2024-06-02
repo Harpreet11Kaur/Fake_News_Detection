@@ -15,6 +15,7 @@ The following Python libraries are required for this project:
 - pandas: For data manipulation and analysis
 - scikit-learn: For machine learning algorithms and tools
 - matplotlib: For plotting and visualization
+  
 You can install the required libraries using pip:
 ```bash
 pip install numpy pandas scikit-learn matplotlib
